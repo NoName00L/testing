@@ -1,0 +1,12 @@
+#Ts {
+ color : red;
+ border :solid 3px gray;
+}
+
+#img {
+ border : solid 5px black;
+}
+
+body {
+ text-align: center;
+}
